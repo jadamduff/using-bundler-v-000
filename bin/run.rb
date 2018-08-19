@@ -4,4 +4,3 @@ Octokit
 Pry
 AwesomePrint
 
-require "bundler/setup"
