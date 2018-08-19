@@ -6,7 +6,7 @@ gem "octokit", "~> 2.0"
 gem "pry", :group => "development"
 
 group :test do
-  gem "pry"
+  gem "rspec"
 end
 
 gem 'awesome_print', :git => 'git@github.com:awesome-print/awesome_print.git'
